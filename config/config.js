@@ -7,8 +7,13 @@ const botIntents = [DIRECT_MESSAGES, GUILD_MESSAGES, GUILDS];
 const commands = {
   hello: 'hello',
   trackMe: 'trackme',
+  todo: 'todo',
   chaos: 'chaos',
-  raid: 'raid',
+  guardian: 'guardian',
+  procyons: 'procyons',
+  una: 'una',
+  rapport: 'rapport',
+  guild: 'guild',
 };
 
 const prefix = '!';
