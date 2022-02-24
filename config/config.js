@@ -14,6 +14,7 @@ const commands = {
   una: 'una',
   rapport: 'rapport',
   guild: 'guild',
+  reset: 'reset',
 };
 
 const prefix = '!';
